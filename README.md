@@ -1,2 +1,2 @@
-# frontend
-Frontend system design and js interview questions repo
+# Frontend System Design and JavaScript Questions Repository
+Welcome to the Frontend System Design and JavaScript Questions repository! This repository is designed to help developers prepare for technical interviews, improve their coding skills, and deepen their understanding of frontend system design and JavaScript. Whether you are a beginner or an experienced developer, you will find valuable resources and challenges here.
